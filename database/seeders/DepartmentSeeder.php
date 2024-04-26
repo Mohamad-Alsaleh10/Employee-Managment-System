@@ -14,19 +14,18 @@ class DepartmentSeeder extends Seeder
     public function run(): void
     {
         Department::create([
-            'name' => 'Human Resources',
-            'description' => 'Handles all matters related to employee relations and welfare.'
+            'name' => 'Managment department',
+            'description' => 'hello this is Managment department'
         ]);
 
         Department::create([
-            'name' => 'Engineering',
-            'description' => 'Focuses on product development and innovation.'
+            'name' => 'HR department',
+            'description' => 'hello this is HR department'
         ]);
 
-        // You can add as many departments as you need
         Department::create([
-            'name' => 'Marketing',
-            'description' => 'Promotes the company and its products to the outside world.'
+            'name' => 'Software Engineering',
+            'description' => 'HR department Software Engineering '
         ]);
     }
 }

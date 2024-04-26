@@ -1,8 +1,9 @@
 
-System for Managing Employees
+#Mohammed Alsaleh 
+
+#System for Managing Employees 
 This is a straightforward system designed to facilitate the management of departments and the employees within them. It boasts a user authentication mechanism, the ability to perform CRUD operations for department and employee management, establishment of relationships between departments and employees, soft deletion of records, and an API for seamless interaction with the system.
 
-Testing Procedure
 To begin testing, follow these steps in your terminal:
 
 First, clone the repository:https://github.com/Mohamad-Alsaleh10/Employee-Managment-System
